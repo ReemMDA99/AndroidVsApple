@@ -1,42 +1,42 @@
 //store question text, options and answers in an array
 const questions = [
     {
-      questionText: "Commonly used data types DO NOT include:",
-      options: ["1. strings", "2. booleans", "3. alerts", "4. numbers"],
-      answer: "3. alerts",
+      questionText: "In comparison to Android devices, iPhone's operating systems are always?",
+      options: ["1. More Powerful", "2. Less Useful", "3. More Homogenous", "4. All of the above"],
+      answer: "3. More Homogenous",
     },
     {
-      questionText: "Arrays in JavaScript can be used to store ______.",
+      questionText: "How much are iPhones typically worth on the resale market in comparison to Android devices?",
       options: [
-        "1. numbers and strings",
-        "2. other arrays",
-        "3. booleans",
-        "4. all of the above",
+        "1. Typically worth more",
+        "2. Typically worth less",
+        "3. Almost same",
+        "4. Resale value doesn't matter",
       ],
-      answer: "4. all of the above",
+      answer: "1. Typically worth more",
     },
     {
       questionText:
-        "String values must be enclosed within _____ when being assigned to variables.",
-      options: ["1. commas", "2. curly brackets", "3. quotes", "4. parentheses"],
-      answer: "3. quotes",
+        "Android products tend to be what, in comparison to Apple products?",
+      options: ["1. Exclusive", "2. Vaporware", "3. Hardware", "4. Inclusive"],
+      answer: "4. Inclusive",
     },
     {
       questionText:
-        "A very useful tool used during development and debugging for printing content to the debugger is:",
+        "How often is the iPhone's operating system updated?",
       options: [
-        "1. JavaScript",
-        "2. terminal/bash",
-        "3. for loops",
-        "4. console.log",
+        "1. Daily",
+        "2. Weekly",
+        "3. Monthly",
+        "4. Anually",
       ],
-      answer: "4. console.log",
+      answer: "4. Anually",
     },
     {
       questionText:
-        "Which of the following is a statement that can be used to terminate a loop, switch or label statement?",
-      options: ["1. break", "2. stop", "3. halt", "4. exit"],
-      answer: "1. break",
+        "Which of these operating systems works with both 32- and 64-bit architectures?",
+      options: ["1. IPhone", "2. Android", "3. Both", "4. None"],
+      answer: "3. Both",
     },
   ];
   
