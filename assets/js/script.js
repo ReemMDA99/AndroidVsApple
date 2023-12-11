@@ -39,12 +39,7 @@ const questions = [
       ],
       answer: "4. Anually",
     },
-    {
-      questionText:
-        "Which of these operating systems works with both 32- and 64-bit architectures?",
-      options: ["1. IPhone", "2. Android", "3. Both", "4. None"],
-      answer: "3. Both",
-    },
+    
   ];
   
   //select each card div by id and assign to variables
