@@ -8,12 +8,12 @@ const questions = [
 
     {
       questionText: "True or False: Android has a closed ecosystem",
-      options: [ "1. True", "2. False","3. Not Sure", "4. None"],
+      options: [ "1. True", "2. False","3. Both", "4. None"],
       answer: "2. False",
     },
     {
         questionText: "True or False: Apple ecosystem is smoother than the android ecosystem",
-        options: ["1. True", "2. False", "3. Not Sure", "4. None"],
+        options: ["1. True", "2. False", "3. Both", "4. None"],
         answer: "1. True",
     },
     {
