@@ -5,15 +5,22 @@ const questions = [
       options: ["1. More Powerful", "2. Less Useful", "3. More Homogenous", "4. All of the above"],
       answer: "3. More Homogenous",
     },
+
     {
-      questionText: "How much are iPhones typically worth on the resale market in comparison to Android devices?",
+      questionText: "True or False: Android has a closed ecosystem",
       options: [
-        "1. Typically worth more",
-        "2. Typically worth less",
-        "3. Almost same",
-        "4. Resale value doesn't matter",
+        "1. True",
+        "2. False",
       ],
-      answer: "1. Typically worth more",
+      answer: "2. False",
+    },
+    {
+        questionText: "Apple ecosystem is smoother than the android ecosystem",
+        options: [
+          "1. True",
+          "2. False",
+        ],
+        answer: "1. True",
     },
     {
       questionText:
